@@ -1,0 +1,1 @@
+export { getHumanTime } from './getHumanTime';

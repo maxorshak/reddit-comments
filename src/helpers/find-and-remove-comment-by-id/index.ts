@@ -1,0 +1,1 @@
+export { findAndRemoveCommentById } from './findAndRemoveCommentById';

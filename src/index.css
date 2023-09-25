@@ -1,0 +1,19 @@
+body {
+  margin: 0;
+  font-family: 'Noto Sans', sans-serif;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+code {
+  font-family: 'Noto Sans', sans-serif;
+}
+
+* {
+  font-family: 'Noto Sans', sans-serif;
+  box-sizing: border-box;
+}
+
+p {
+  margin: 0;
+}
